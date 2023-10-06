@@ -1,4 +1,4 @@
-# Richards Okiemute - Cloud Support Engineer | Cloud Engineer
+# Richards Okiemute - Cloud Support Engineer | Cloud Engineer | Microsoft Certified Trainer (MCT)
 
 ![Profile Picture](profile-picture.jpg)
 
